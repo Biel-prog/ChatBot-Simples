@@ -44,6 +44,7 @@ Agora são 14:32.
 
 Em que posso te ajudar? estou triste
 Sinto muito por isso. Lembre-se: dias difíceis também passam. Você é forte!
+
 📄 Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
